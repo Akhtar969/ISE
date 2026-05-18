@@ -6,6 +6,6 @@ Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json
 User-agent: *
 Disallow:
 
-Sitemap: https://Navjivanvalves.com/sitemap_index.xml
+Sitemap: https://isengineeringco.in/sitemap.xml
 # ---------------------------
 # END YOAST BLOCK
